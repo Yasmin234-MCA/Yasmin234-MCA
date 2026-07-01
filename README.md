@@ -13,37 +13,36 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=🧠+Deep+Learning+Engineer;👁️+Built+AI+for+Visually+Impaired;🛡️+Cybersecurity+%7C+Phishing+Detection;🏥+Full+Stack+Web+Developer;📱+React+Native+%7C+Kotlin+Mobile+Dev;🎨+UI%2FUX+Designer+with+Figma;🚀+Always+Learning%2C+Always+Building!" alt="About Me Typing"/>
+</div>
 
-```python
-class YasminHameedha:
-    def __init__(self):
-        self.name       = "Yasmin Hameedha M"
-        self.location   = "Chennai, India 🇮🇳"
-        self.education  = "MCA @ Manonmaniam Sundaranar University (CGPA: 8.5)"
-        self.email      = "yas607008@gmail.com"
-        self.passion    = ["Full Stack Dev", "AI/ML", "Mobile Apps", "UI/UX"]
+<br/>
 
-    def experience(self):
-        return {
-            "Web Dev Intern": "Acmegrade Pvt Ltd, Bangalore (Jun–Jul 2025)",
-            "Python Intern" : "Edyoda, Bangalore (Apr 2024)"
-        }
+<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-    def about_me(self):
-        return [
-            "🧠 Deep Learning for Cybersecurity & Accessibility",
-            "👁️ Built Vision Assist – AI for Visually Impaired (TFLite)",
-            "🛡️ Phishing Detection using CNN Deep Learning",
-            "🏥 Hospital Management System with Django",
-            "📱 Mobile Dev with React Native & Kotlin",
-            "🎨 UI/UX Design with Figma & Wireframe.cc",
-            "🚀 Always learning, always building!"
-        ]
+🧠 Deep Learning for Cybersecurity & Accessibility
+👁️ Built Vision Assist – AI for Visually Impaired (TFLite)
+🛡️ Phishing Detection using CNN Deep Learning
+🏥 Hospital Management System with Django
+📱 Mobile Dev with React Native & Kotlin
+🎨 UI/UX Design with Figma & Wireframe.cc
+🚀 Always learning, always building!
 
-me = YasminHameedha()
-print(me.about_me())
-```
+📍 **Chennai, India** &nbsp;|&nbsp; 📧 **yas607008@gmail.com** &nbsp;|&nbsp; 🎓 **MCA @ Manonmaniam Sundaranar University (CGPA: 8.5)**
+
+<br/>
+
+<div align="center">
+
+<!-- Animated Snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
@@ -88,7 +87,22 @@ print(me.about_me())
 
 ---
 
+## 💼 Experience
 
+<div align="center">
+
+| 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
+|:---|:---|:---|:---|
+| **Acmegrade Pvt Ltd** | Web Developer Intern | Jun 2025 – Jul 2025 | Bangalore |
+| **Edyoda** | Python Developer Intern | Apr 2024 | Bangalore |
+
+</div>
+
+**Acmegrade Pvt Ltd** — Frontend development, API integration, debugging, responsive web interfaces.
+
+**Edyoda** — Core Python, data structures, logic building, problem solving.
+
+---
 
 ## 🚀 Featured Projects
 
@@ -135,11 +149,12 @@ print(me.about_me())
 <td width="50%">
 <h3 align="center">🍔 Swiggy Clone</h3>
 <div align="center">
-<a href="https://github.com/Yasmin234-MCA/Swiggy-Clone">
-<img src="https://img.shields.io/badge/View%20Project-F97316?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/🔜%20Coming%20Soon-FF6B35?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=react"/>
 <p><strong>React Native · Mobile Development</strong></p>
 <p>A fully functional Swiggy food delivery app clone built with React Native. Features real-time UI, restaurant listings, and smooth cross-platform user experience.</p>
+<p>🚧 <em>Work in progress — Stay tuned!</em> 🚧</p>
 </div>
 </td>
 
@@ -149,8 +164,33 @@ print(me.about_me())
 
 ---
 
+## 🎓 Education
 
+<div align="center">
 
+| 🏫 Institution | 📚 Degree | 📅 Year | 🏆 Score |
+|:---|:---|:---|:---|
+| Manonmaniam Sundaranar University | MCA | 2024 – 2026 | CGPA: 8.5 |
+| Sadakathullah Appa College | B.Sc Computer Science | 2021 – 2024 | CGPA: 8.4 |
+| Little Flower Matric Hr. Sec. School | HSC | 2020 – 2021 | 91% |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-Novitech%20R%26D-blue?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Designing-Novitech%20R%26D-pink?style=for-the-badge)
+![AI Bootcamp](https://img.shields.io/badge/AI%20Bootcamp-Novitech%20R%26D-orange?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Dashboard%20in%20PowerBI-Novitech%20R%26D-yellow?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Workshop-360%20DigiTMG-purple?style=for-the-badge)
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
