@@ -3,11 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20👋%20I'm%20Yasmin%20Hameedha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=console.log(%22Building%20AI.%20Designing%20Futures.%22);&descAlignY=60&descSize=18&descColor=A3E635"/>
 
-<!-- Animated Typing - Roles -->
-<a href="https://github.com/Yasmin234-MCA">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=🤖+AI+%26+Deep+Learning+Engineer;💻+Full+Stack+Web+Developer;📱+React+Native+Mobile+Developer;🎨+UI%2FUX+Designer+%26+Problem+Solver;🌟+Open+Source+Contributor" alt="Typing Roles"/>
-</a>
-
 <br/>
 
 <!-- Animated Role Badges -->
@@ -110,7 +105,7 @@
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -123,7 +118,7 @@
 
 **🌐 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -135,7 +130,7 @@
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -147,7 +142,7 @@
 
 **📱 Mobile Dev**
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+<
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -162,7 +157,7 @@
 
 **🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/Deep_Learning_(CNN)-FF6F00?style=flat-square&logo=keras&logoColor=white)
@@ -172,16 +167,7 @@
 
 <td align="center" width="25%">
 
-**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=django" />
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
 
 **🎨 UI / UX**
 
@@ -214,8 +200,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
 
 <br/>
 
