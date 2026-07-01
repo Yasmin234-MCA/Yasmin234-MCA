@@ -142,7 +142,7 @@
 
 **📱 Mobile Dev**
 
-<
+
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -171,7 +171,7 @@
 
 **🎨 UI / UX**
 
-<img src="https://skillicons.dev/icons?i=figma" />
+
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Wireframe.cc](https://img.shields.io/badge/Wireframe.cc-000000?style=flat-square&logoColor=white)
