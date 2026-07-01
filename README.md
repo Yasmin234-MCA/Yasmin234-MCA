@@ -47,7 +47,7 @@
 
 &nbsp;&nbsp;🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
 
-&nbsp;&nbsp;🎮 &nbsp;Fun Fact: I can recreate any UI in **under 2 hours!**
+
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -106,50 +106,104 @@
 
 ---
 
-## ⚡ Creative Arsenal
+## ⚡ Tech Arsenal
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8907-9e316b6d2b6b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadfe3-fd18-4953-9293-19c6c2d0db4f.gif" width="80"/>
-</div>
+**💻 Languages**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 
-<table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+
+<td align="center" width="25%">
+
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+
+<td align="center" width="25%">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+</td>
+
+<td align="center" width="25%">
+
+**📱 Mobile Dev**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+</td>
+
+</tr>
 <tr>
+
 <td align="center" width="25%">
 
-**Frontend**
+**🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/Deep_Learning_(CNN)-FF6F00?style=flat-square&logo=keras&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
-**Backend & AI**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=python,java,django,tensorflow,mysql" />
+<img src="https://skillicons.dev/icons?i=django" />
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
-**Design**
+**🎨 UI / UX**
 
-<img src="https://skillicons.dev/icons?i=figma,androidstudio,kotlin" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Wireframe.cc](https://img.shields.io/badge/Wireframe.cc-000000?style=flat-square&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
-**Tools**
+**🛠️ Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
@@ -213,7 +267,7 @@
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/hospital.png" width="36"/>
-<br/><b>Hospital System</b>
+<br/><b>Hospital Management System</b>
 <br/><sub>Full Stack Web Application</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Django%20%7C%20SQLite-black?style=flat-square&logo=django&logoColor=092E20"/>
@@ -238,7 +292,6 @@
 ---
 
 
-
 ## 💬 Daily Inspiration
 
 <div align="center">
@@ -257,8 +310,7 @@
 
 *If you like my work, consider supporting me* 💜
 
-[![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Yasmin234-MCA)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yas607008@gmail.com)
 
