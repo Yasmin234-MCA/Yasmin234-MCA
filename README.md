@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/UI%2FUX%20DESIGNER-%23F97316?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/LIFELONG%20LEARNER-%23EC4899?style=flat-square&logoColor=white)
 
-<!-- Animated glowing divider -->
+<!-- Animated colorful neon line divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
@@ -53,7 +53,7 @@
 <td width="45%" align="center" valign="middle">
 
 <!-- Better high quality coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380"/>
 
 <br/>
 
@@ -126,14 +126,14 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
 </td>
 <td align="center" width="25%">
 
 **Backend & AI**
 
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,django,tensorflow,mysql" />
 
 </td>
 <td align="center" width="25%">
@@ -147,7 +147,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
 
 </td>
 </tr>
@@ -213,7 +213,7 @@
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/hospital.png" width="36"/>
-<br/><b>Hospital Management System</b>
+<br/><b>Hospital System</b>
 <br/><sub>Full Stack Web Application</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Django%20%7C%20SQLite-black?style=flat-square&logo=django&logoColor=092E20"/>
@@ -236,6 +236,7 @@
 </div>
 
 ---
+
 
 
 ## 💬 Daily Inspiration
