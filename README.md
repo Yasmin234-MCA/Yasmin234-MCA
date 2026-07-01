@@ -32,7 +32,7 @@
 
 &nbsp;&nbsp;🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
 
-&nbsp;&nbsp;🎮 &nbsp;Fun Fact: I can recreate any UI in **under 2 hours!**
+
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -90,14 +90,14 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 </td>
 <td align="center" width="25%">
 
 **Backend & AI**
 
-<img src="https://skillicons.dev/icons?i=python,java,django,tensorflow,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,mysql" />
 
 </td>
 <td align="center" width="25%">
@@ -111,7 +111,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </td>
 </tr>
