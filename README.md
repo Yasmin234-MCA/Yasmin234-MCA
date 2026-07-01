@@ -10,14 +10,14 @@
 ![](https://img.shields.io/badge/FULL%20STACK%20DEV-%2306B6D4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/MOBILE%20DEVELOPER-%2310B981?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/UI%2FUX%20DESIGNER-%23F97316?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/LIFELONG%20LEARNER-%23EC4899?style=flat-square&logoColor=white)
+
 
 <!-- Animated neon line divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
 
----
+
 
 ## 🌟 About Me
 
@@ -38,7 +38,7 @@
 
 🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
 
-🎮 &nbsp;Fun Fact: I can recreate any UI in **under 2 hours!**
+
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
----
+
 
 ## 💎 My Philosophy
 
@@ -86,28 +86,25 @@
 </td>
 </tr>
 </table>
+
+  <!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
 </div>
 
----
+
 
 ## ⚡ Tech Arsenal
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=💻+Languages+%7C+Frameworks+%7C+Tools...;🚀+Always+adding+new+skills...;⚡+Powered+by+curiosity+%26+coffee..."/>
-
-<br/><br/>
 
 <!-- ROW 1 -->
 <table>
 <tr>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-<br/>
+
 <b>💻 Languages</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -117,11 +114,8 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
-<br/>
+
 <b>🌐 Frontend</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -130,31 +124,23 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadfe3-fd18-4953-9293-19c6c2d0db4f.gif" width="50"/>
-<br/>
+  
 <b>🗄️ Databases</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
 </td>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8907-9e316b6d2b6b.gif" width="50"/>
-<br/>
+
 <b>📱 Mobile Dev</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <br/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </td>
-
 </tr>
 </table>
 
@@ -165,11 +151,8 @@
 <tr>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
-<br/>
+
 <b>🤖 AI / ML</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <br/>
@@ -179,23 +162,8 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
-<br/>
-<b>⚙️ Backend</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=django,python&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white"/>
-</td>
 
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
-<br/>
 <b>🎨 UI / UX</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <br/>
@@ -203,52 +171,45 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-fc892862-b082-4d2b-b62f-6e39a3e4b8cc.gif" width="50"/>
-<br/>
+
 <b>🛠️ Tools</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </td>
-
 </tr>
 </table>
+<!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
 
----
+
 
 ## 📊 GitHub Analytics
 
+<br/>
+
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yasmin234-MCA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin234-MCA&layout=donut&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin234-MCA&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
+
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yasmin234-MCA&theme=tokyo-night&hide_border=true&area=true"/>
 
+<br/>
 <br/>
 
 > 🚀 *Let's build something amazing!*
 
+<!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
----
+
 
 ## ✨ Featured Projects
 
@@ -298,9 +259,11 @@
 
 </tr>
 </table>
+<!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
----
+
 
 ## 💬 Daily Inspiration
 
@@ -309,10 +272,12 @@
 > *"The best way to predict the future is to **create it**."*
 >
 > — Peter Drucker
+<!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -320,22 +285,22 @@
 
 *If you like my work, consider supporting me* 💜
 
-[![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Yasmin234-MCA)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-hameedha-m-110771366)
 [![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yas607008@gmail.com)
+
 
 </div>
 
----
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
 
 ⭐ *Thanks for visiting!* &nbsp;🌟 &nbsp;*Let's create something amazing together.* 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Happy+Coding!+💻;Keep+Building!+🚀;Stay+Curious!+🧠;Dream+Big!+✨"/>
+<!-- Animated neon line divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
