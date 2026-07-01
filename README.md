@@ -23,47 +23,36 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-
 <!-- Animated mini typing in About section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=10B981&vCenter=true&width=420&lines=💡+Turning+ideas+into+real+products...;🧠+Training+deep+learning+models...;📱+Building+cross-platform+apps...;🎨+Designing+pixel-perfect+UIs...;🚀+Pushing+to+GitHub+daily..."/>
-
 <br/>
+  🎯  Building AI solutions that solve real human problems
 
-&nbsp;&nbsp;🎯 &nbsp;Building AI solutions that solve **real human problems**
+  💡  Creative problem solver who turns ideas into impactful products
 
-&nbsp;&nbsp;💡 &nbsp;Creative problem solver who turns **ideas into impactful products**
+  ⚡  Obsessed with Deep Learning, Design Systems & Animation
 
-&nbsp;&nbsp;⚡ &nbsp;Obsessed with **Deep Learning, Design Systems & Animation**
+  🚀  2026 Goal: Build smarter, Design better, Ship more open source
 
-&nbsp;&nbsp;🚀 &nbsp;2026 Goal: Build smarter, Design better, **Ship more open source**
+  👁️  Built Vision Assist — AI navigation for visually impaired users
 
-&nbsp;&nbsp;👁️ &nbsp;Built **Vision Assist** — AI navigation for visually impaired users
-
-&nbsp;&nbsp;🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
-
+  🛡️  Engineered Phishing Detection using CNN Deep Learning
 
 
 </td>
 <td width="45%" align="center" valign="middle">
-
 <!-- Better high quality coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380"/>
-
 <br/>
-
 <!-- Animated text below GIF -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=280&lines=✨+Dream+•+Design+•+Deploy+✨;🌟+Code+•+Create+•+Innovate+🌟"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=300&lines=Dream+%7C+Design+%7C+Deploy+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%8C%9F;Build+%7C+Break+%7C+Learn+%7C+Repeat+%F0%9F%9A%80"/>
 </td>
 </tr>
 </table>
-
 <div align="center">
 <!-- Animated colorful line divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
-
----
 
 ## 💎 My Philosophy
 
@@ -197,11 +186,6 @@
 
 <div align="center">
 
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yasmin234-MCA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin234-MCA&layout=donut&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
