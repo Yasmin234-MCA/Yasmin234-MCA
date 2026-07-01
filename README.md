@@ -1,192 +1,121 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasmin%20Hameedha%20M&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%2FML%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20👋%20I'm%20Yasmin%20Hameedha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=console.log(%22Building%20AI.%20Designing%20Futures.%22);&descAlignY=60&descSize=18&descColor=A3E635"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=console.log(%22Building+solutions+that+matter.%22);Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Deep+Learning+Engineer+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;MCA+%40+Manonmaniam+Sundaranar+University+%F0%9F%8E%93)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yasmin234-MCA&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Yasmin234-MCA?style=for-the-badge&color=purple&labelColor=black)](https://github.com/Yasmin234-MCA)
+<!-- Role Badges -->
+![](https://img.shields.io/badge/AI%20ENGINEER-%23A855F7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/FULL%20STACK%20DEV-%2306B6D4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/MOBILE%20DEVELOPER-%2310B981?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/UI%2FUX%20DESIGNER-%23F97316?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/LIFELONG%20LEARNER-%23EC4899?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=🧠+Deep+Learning+Engineer;👁️+Built+AI+for+Visually+Impaired;🛡️+Cybersecurity+%7C+Phishing+Detection;🏥+Full+Stack+Web+Developer;📱+React+Native+%7C+Kotlin+Mobile+Dev;🎨+UI%2FUX+Designer+with+Figma;🚀+Always+Learning%2C+Always+Building!" alt="About Me Typing"/>
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+&nbsp;&nbsp;🎯 &nbsp;Building AI solutions that solve **real human problems**
+
+&nbsp;&nbsp;💡 &nbsp;Creative problem solver who turns **ideas into impactful products**
+
+&nbsp;&nbsp;⚡ &nbsp;Obsessed with **Deep Learning, Design Systems & Animation**
+
+&nbsp;&nbsp;🚀 &nbsp;2026 Goal: Build smarter, Design better, **Ship more open source**
+
+&nbsp;&nbsp;👁️ &nbsp;Built **Vision Assist** — AI navigation for visually impaired users
+
+&nbsp;&nbsp;🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
+
+&nbsp;&nbsp;🎮 &nbsp;Fun Fact: I can recreate any UI in **under 2 hours!**
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260"/>
 
 <br/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+✨ &nbsp;**Dream &nbsp;•&nbsp; Design &nbsp;•&nbsp; Develop &nbsp;•&nbsp; Deploy** &nbsp;✨
 
-🧠 Deep Learning for Cybersecurity & Accessibility
-👁️ Built Vision Assist – AI for Visually Impaired (TFLite)
-🛡️ Phishing Detection using CNN Deep Learning
-🏥 Hospital Management System with Django
-📱 Mobile Dev with React Native & Kotlin
-🎨 UI/UX Design with Figma & Wireframe.cc
-🚀 Always learning, always building!
-
-📍 **Chennai, India** &nbsp;|&nbsp; 📧 **yas607008@gmail.com** &nbsp;|&nbsp; 🎓 **MCA @ Manonmaniam Sundaranar University (CGPA: 8.5)**
-
-<br/>
-
-<div align="center">
-
-<!-- Animated Snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20(CNN)-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Wireframe.cc](https://img.shields.io/badge/Wireframe.cc-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-| 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
-|:---|:---|:---|:---|
-| **Acmegrade Pvt Ltd** | Web Developer Intern | Jun 2025 – Jul 2025 | Bangalore |
-| **Edyoda** | Python Developer Intern | Apr 2024 | Bangalore |
-
-</div>
-
-**Acmegrade Pvt Ltd** — Frontend development, API integration, debugging, responsive web interfaces.
-
-**Edyoda** — Core Python, data structures, logic building, problem solving.
-
----
-
-## 🚀 Featured Projects
+## 💎 My Philosophy
 
 <div align="center">
 <table>
 <tr>
-
-<td width="50%">
-<h3 align="center">👁️ Vision Assist</h3>
-<div align="center">
-<a href="https://github.com/Yasmin234-MCA/Vision-Assist">
-<img src="https://img.shields.io/badge/View%20Project-A855F7?style=for-the-badge&logo=github"/>
-</a>
-<p><strong>Android Studio · Python ML · TFLite · Camera API</strong></p>
-<p>Smart Navigation & Obstacle Detection for Visually Impaired users. Converted Python ML model to TFLite format for efficient on-device real-time detection. (Nov 2025 – Apr 2026)</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/leaf.png" width="40"/>
+<br/><b>Simplicity</b>
+<br/><sub>Clean solutions that speak more with less</sub>
 </td>
-
-<td width="50%">
-<h3 align="center">🛡️ Phishing Prediction System</h3>
-<div align="center">
-<a href="https://github.com/Yasmin234-MCA/phishing-prediction-system">
-<img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github"/>
-</a>
-<p><strong>Python · Deep Learning (CNN) · MySQL · JavaScript</strong></p>
-<p>Web app that accurately detects phishing emails using CNN Deep Learning. Applied data preprocessing & optimization to reduce false predictions. (Aug–Oct 2025)</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/idea.png" width="40"/>
+<br/><b>Creativity</b>
+<br/><sub>Unique AI solutions that stand out and delight</sub>
 </td>
-
-</tr>
-<tr>
-
-<td width="50%">
-<h3 align="center">🏥 Hospital Management System</h3>
-<div align="center">
-<a href="https://github.com/Yasmin234-MCA">
-<img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github"/>
-</a>
-<p><strong>Python (Django) · HTML · CSS · JS · SQLite</strong></p>
-<p>Web-based system for managing patient registration, appointments & records. Includes secure authentication, authorization & access management. (Jan–Apr 2024)</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/settings.png" width="40"/>
+<br/><b>Functionality</b>
+<br/><sub>Pixel-perfect AI that drives seamless experiences</sub>
 </td>
-
-<td width="50%">
-<h3 align="center">🍔 Swiggy Clone</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/🔜%20Coming%20Soon-FF6B35?style=for-the-badge&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=react"/>
-<p><strong>React Native · Mobile Development</strong></p>
-<p>A fully functional Swiggy food delivery app clone built with React Native. Features real-time UI, restaurant listings, and smooth cross-platform user experience.</p>
-<p>🚧 <em>Work in progress — Stay tuned!</em> 🚧</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/like.png" width="40"/>
+<br/><b>Empathy</b>
+<br/><sub>Design with users in mind, for real-world impact</sub>
 </td>
-
 </tr>
 </table>
 </div>
 
 ---
 
-## 🎓 Education
+## ⚡ Creative Arsenal
 
 <div align="center">
 
-| 🏫 Institution | 📚 Degree | 📅 Year | 🏆 Score |
-|:---|:---|:---|:---|
-| Manonmaniam Sundaranar University | MCA | 2024 – 2026 | CGPA: 8.5 |
-| Sadakathullah Appa College | B.Sc Computer Science | 2021 – 2024 | CGPA: 8.4 |
-| Little Flower Matric Hr. Sec. School | HSC | 2020 – 2021 | 91% |
+<table>
+<tr>
+<td align="center" width="25%">
 
-</div>
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
-## 📜 Certifications
+</td>
+<td align="center" width="25%">
 
-<div align="center">
+**Backend & AI**
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-Novitech%20R%26D-blue?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Designing-Novitech%20R%26D-pink?style=for-the-badge)
-![AI Bootcamp](https://img.shields.io/badge/AI%20Bootcamp-Novitech%20R%26D-orange?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/Dashboard%20in%20PowerBI-Novitech%20R%26D-yellow?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Workshop-360%20DigiTMG-purple?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,java,django,tensorflow,mysql" />
+
+</td>
+<td align="center" width="25%">
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,androidstudio,kotlin" />
+
+</td>
+<td align="center" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,38 +124,138 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yasmin234-MCA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin234-MCA&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin234-MCA&theme=tokyonight&hide_border=true"/>
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yasmin234-MCA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin234-MCA&layout=donut&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasmin234-MCA&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
+<br/>
 
----
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin234-MCA&theme=tokyonight&hide_border=true"/>
 
-## 🤝 Let's Connect
+<br/>
 
-<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yasmin234-MCA&theme=tokyo-night&hide_border=true&area=true"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yasmin234--MCA-181717?style=for-the-badge&logo=github)](https://github.com/Yasmin234-MCA)
-[![Email](https://img.shields.io/badge/Email-yas607008@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:yas607008@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<br/>
+
+> 🚀 *Let's build something amazing!*
 
 </div>
 
 ---
 
+## ✨ Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/visible.png" width="36"/>
+<br/><b>Vision Assist</b>
+<br/><sub>AI Navigation for Visually Impaired</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Android%20%7C%20TFLite-black?style=flat-square&logo=android&logoColor=3DDC84"/>
+<br/><br/>
+<a href="https://github.com/Yasmin234-MCA/Vision-Assist"><img src="https://img.shields.io/badge/View%20Project-A855F7?style=for-the-badge"/></a>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/shield.png" width="36"/>
+<br/><b>Phishing Prediction System</b>
+<br/><sub>Deep Learning </sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python%20%7C%20CNN-black?style=flat-square&logo=python&logoColor=3776AB"/>
+<br/><br/>
+<a href="https://github.com/Yasmin234-MCA/phishing-prediction-system"><img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge"/></a>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/hospital.png" width="36"/>
+<br/><b>Hospital Management System</b>
+<br/><sub>Full Stack Web Application</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Django%20%7C%20SQLite-black?style=flat-square&logo=django&logoColor=092E20"/>
+<br/><br/>
+<a href="https://github.com/Yasmin234-MCA"><img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge"/></a>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/restaurant.png" width="36"/>
+<br/><b>Swiggy Clone</b>
+<br/><sub>Food Delivery Mobile App</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔜%20Coming%20Soon-FF6B35?style=for-the-badge"/>
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 🎫 Recent UI Explorations
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+🏥 &nbsp;**Hospital Management UI** &nbsp;— Full Stack Design
+
+🛡️ &nbsp;**Phishing Dashboard** &nbsp;— Data Visualization
+
+</td>
+<td width="50%">
+
+📱 &nbsp;**Swiggy Clone UI** &nbsp;— Mobile UI Design
+
+🎫 &nbsp;**TicketNova** &nbsp;— Ticket Booking UX
+
+</td>
+</tr>
+</table>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[See more projects →](https://github.com/Yasmin234-MCA?tab=repositories)
+
+</div>
+
+---
+
+## 💬 Daily Inspiration
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+> *"The best way to predict the future is to **create it**."*
+>
+> — Peter Drucker
 
-⭐ **If you find my work useful, drop a star on my repos!** ⭐
+</div>
 
-*"The best way to predict the future is to create it."*
+---
+
+## 🤝 Support My Work
+
+<div align="center">
+
+*If you like my work, consider supporting me* 💜
+
+[![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Yasmin234-MCA)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yas607008@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+⭐ *Thanks for visiting!* &nbsp;🌟 &nbsp;*Let's create something amazing together.* 🚀
 
 </div>
