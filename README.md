@@ -12,11 +12,12 @@
 ![](https://img.shields.io/badge/UI%2FUX%20DESIGNER-%23F97316?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/LIFELONG%20LEARNER-%23EC4899?style=flat-square&logoColor=white)
 
-<!-- Animated colorful neon line divider -->
+<!-- Animated neon line divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
 
+---
 
 ## 🌟 About Me
 
@@ -24,36 +25,41 @@
 <tr>
 <td width="55%" valign="top">
 <br/>
-  🎯  Building AI solutions that solve real human problems
 
-  💡  Creative problem solver who turns ideas into impactful products
+🎯 &nbsp;Building AI solutions that solve **real human problems**
 
-  ⚡  Obsessed with Deep Learning, Design Systems & Animation
+💡 &nbsp;Creative problem solver who turns **ideas into impactful products**
 
-  🚀  2026 Goal: Build smarter, Design better, Ship more open source
+⚡ &nbsp;Obsessed with **Deep Learning, Design Systems & Animation**
 
-  👁️  Built Vision Assist — AI navigation for visually impaired users
+🚀 &nbsp;2026 Goal: Build smarter, Design better, **Ship more open source**
 
-  🛡️  Engineered Phishing Detection using CNN Deep Learning
+👁️ &nbsp;Built **Vision Assist** — AI navigation for visually impaired users
 
+🛡️ &nbsp;Engineered **Phishing Detection** using CNN Deep Learning
+
+🎮 &nbsp;Fun Fact: I can recreate any UI in **under 2 hours!**
 
 </td>
 <td width="45%" align="center" valign="middle">
-<!-- Better high quality coding GIF -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380"/>
+
 <br/>
-<!-- Animated text below GIF -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=300&lines=Dream+%7C+Design+%7C+Deploy+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%8C%9F;Build+%7C+Break+%7C+Learn+%7C+Repeat+%F0%9F%9A%80"/>
+
 </td>
 </tr>
 </table>
+
 <div align="center">
-<!-- Animated colorful line divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
-## 💎 My Philosophy
+---
 
+## 💎 My Philosophy
 
 <div align="center">
 <table>
@@ -86,91 +92,127 @@
 
 ## ⚡ Tech Arsenal
 
-**💻 Languages**
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=💻+Languages+%7C+Frameworks+%7C+Tools...;🚀+Always+adding+new+skills...;⚡+Powered+by+curiosity+%26+coffee..."/>
 
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<!-- ROW 1 -->
+<table>
+<tr>
 
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+<br/>
+<b>💻 Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </td>
 
-<td align="center" width="25%">
-
-**🌐 Frontend**
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+<br/>
+<b>🌐 Frontend</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </td>
 
-<td align="center" width="25%">
-
-**🗄️ Databases**
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadfe3-fd18-4953-9293-19c6c2d0db4f.gif" width="50"/>
+<br/>
+<b>🗄️ Databases</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </td>
 
-<td align="center" width="25%">
-
-**📱 Mobile Dev**
-
-
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8907-9e316b6d2b6b.gif" width="50"/>
+<br/>
+<b>📱 Mobile Dev</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<br/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 </td>
 
 </tr>
+</table>
+
+<br/>
+
+<!-- ROW 2 -->
+<table>
 <tr>
 
-<td align="center" width="25%">
-
-**🤖 AI / ML**
-
-
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/Deep_Learning_(CNN)-FF6F00?style=flat-square&logo=keras&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+<br/>
+<b>🤖 AI / ML</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Deep_Learning_(CNN)-FF6F00?style=flat-square&logo=keras&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </td>
 
-<td align="center" width="25%">
-
-
-
-**🎨 UI / UX**
-
-
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Wireframe.cc](https://img.shields.io/badge/Wireframe.cc-000000?style=flat-square&logoColor=white)
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
+<br/>
+<b>⚙️ Backend</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=django,python&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+<br/>
+<b>🎨 UI / UX</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Wireframe.cc-000000?style=flat-square&logo=figma&logoColor=white"/>
+</td>
 
-**🛠️ Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-fc892862-b082-4d2b-b62f-6e39a3e4b8cc.gif" width="50"/>
+<br/>
+<b>🛠️ Tools</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </td>
 
 </tr>
@@ -184,6 +226,13 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yasmin234-MCA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin234-MCA&layout=donut&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -229,7 +278,7 @@
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/hospital.png" width="36"/>
-<br/><b>Hospital Management System</b>
+<br/><b>Hospital Management</b>
 <br/><sub>Full Stack Web Application</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Django%20%7C%20SQLite-black?style=flat-square&logo=django&logoColor=092E20"/>
@@ -253,7 +302,6 @@
 
 ---
 
-
 ## 💬 Daily Inspiration
 
 <div align="center">
@@ -266,13 +314,13 @@
 
 ---
 
-## 🤝 Support My Work
+## 🤝 Connect With Me
 
 <div align="center">
 
 *If you like my work, consider supporting me* 💜
 
-
+[![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Yasmin234-MCA)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yas607008@gmail.com)
 
