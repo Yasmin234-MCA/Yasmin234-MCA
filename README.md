@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/FULL%20STACK%20DEV-%2306B6D4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/MOBILE%20DEVELOPER-%2310B981?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/UI%2FUX%20DESIGNER-%23F97316?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/LIFELONG%20LEARNER-%23EC4899?style=flat-square&logoColor=white)
+
 
 </div>
 
@@ -197,33 +197,9 @@
 
 ---
 
-## 🎫 Recent UI Explorations
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
 
-🏥 &nbsp;**Hospital Management UI** &nbsp;— Full Stack Design
 
-🛡️ &nbsp;**Phishing Dashboard** &nbsp;— Data Visualization
-
-</td>
-<td width="50%">
-
-📱 &nbsp;**Swiggy Clone UI** &nbsp;— Mobile UI Design
-
-🎫 &nbsp;**TicketNova** &nbsp;— Ticket Booking UX
-
-</td>
-</tr>
-</table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;[See more projects →](https://github.com/Yasmin234-MCA?tab=repositories)
-
-</div>
-
----
 
 ## 💬 Daily Inspiration
 
@@ -243,8 +219,7 @@
 
 *If you like my work, consider supporting me* 💜
 
-[![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Yasmin234-MCA)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
+
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yas607008@gmail.com)
 
