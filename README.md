@@ -23,8 +23,6 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-<!-- Animated mini typing in About section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=10B981&vCenter=true&width=420&lines=💡+Turning+ideas+into+real+products...;🧠+Training+deep+learning+models...;📱+Building+cross-platform+apps...;🎨+Designing+pixel-perfect+UIs...;🚀+Pushing+to+GitHub+daily..."/>
 <br/>
   🎯  Building AI solutions that solve real human problems
 
